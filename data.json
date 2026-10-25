@@ -1,7 +1,7 @@
 {
   "v": 1,
   "app": "值班排班簿",
-  "updatedAt": "2026-10-24T15:18:50.865Z",
+  "updatedAt": "2026-10-25T01:23:45.613Z",
   "groupA": [
     "陈心园",
     "范梓涵",
@@ -313,12 +313,12 @@
   "lockState": {
     "1": true,
     "2": true,
-    "3": false,
+    "3": true,
     "4": true,
-    "5": false,
-    "6": false,
-    "7": false,
-    "8": false,
+    "5": true,
+    "6": true,
+    "7": true,
+    "8": true,
     "9": false,
     "10": false,
     "11": false,
