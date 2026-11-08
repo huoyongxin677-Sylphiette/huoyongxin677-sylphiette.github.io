@@ -1,7 +1,7 @@
 {
   "v": 1,
   "app": "值班排班簿",
-  "updatedAt": "2026-11-08T09:31:32.530Z",
+  "updatedAt": "2026-11-08T09:31:46.125Z",
   "groupA": [
     "陈心园",
     "范梓涵",
@@ -300,34 +300,34 @@
         "forcedReason": "（手动指定）"
       },
       "6": {
-        "name": "陈诗琪",
+        "name": "文婧茹",
         "forced": false,
-        "forcedReason": ""
+        "forcedReason": "（手动指定）"
       }
     },
     "11": {
       "2": {
-        "name": "林依楠",
-        "forced": false,
-        "forcedReason": ""
-      },
-      "3": {
-        "name": "黄诗琪",
-        "forced": false,
-        "forcedReason": ""
-      },
-      "4": {
         "name": "杨佳锐",
         "forced": false,
         "forcedReason": ""
       },
+      "3": {
+        "name": "唐翊雯",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "4": {
+        "name": "林依楠",
+        "forced": false,
+        "forcedReason": ""
+      },
       "5": {
-        "name": "肖静怡",
+        "name": "彭乐",
         "forced": false,
         "forcedReason": ""
       },
       "6": {
-        "name": "陈思皓",
+        "name": "谢晴晴",
         "forced": false,
         "forcedReason": ""
       }
@@ -350,7 +350,7 @@
     "7": true,
     "8": true,
     "9": true,
-    "10": false,
+    "10": true,
     "11": false,
     "12": false,
     "13": false,
