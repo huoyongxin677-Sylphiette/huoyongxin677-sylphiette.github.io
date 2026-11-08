@@ -1,7 +1,7 @@
 {
   "v": 1,
   "app": "值班排班簿",
-  "updatedAt": "2026-11-08T09:33:22.925Z",
+  "updatedAt": "2026-11-08T09:33:34.926Z",
   "groupA": [
     "陈心园",
     "范梓涵",
@@ -332,13 +332,195 @@
         "forcedReason": "（手动指定）"
       }
     },
-    "12": {},
-    "13": {},
-    "14": {},
-    "15": {},
-    "16": {},
-    "17": {},
-    "18": {}
+    "12": {
+      "2": {
+        "name": "古远腾",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "3": {
+        "name": "王雪妍",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "4": {
+        "name": "张芷莹",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "5": {
+        "name": "林依楠",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "6": {
+        "name": "黄诗琪",
+        "forced": false,
+        "forcedReason": ""
+      }
+    },
+    "13": {
+      "2": {
+        "name": "周涵意",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "3": {
+        "name": "杨佳锐",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "4": {
+        "name": "陈思皓",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "5": {
+        "name": "陈俊峰",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "6": {
+        "name": "肖静怡",
+        "forced": false,
+        "forcedReason": ""
+      }
+    },
+    "14": {
+      "2": {
+        "name": "郑银璇",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "3": {
+        "name": "谢晴晴",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "4": {
+        "name": "袁丽珠",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "5": {
+        "name": "陈诗琪",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "6": {
+        "name": "刘豪",
+        "forced": false,
+        "forcedReason": ""
+      }
+    },
+    "15": {
+      "2": {
+        "name": "林依楠",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "3": {
+        "name": "彭乐",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "4": {
+        "name": "黄诗琪",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "5": {
+        "name": "王雪妍",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "6": {
+        "name": "唐翊雯",
+        "forced": false,
+        "forcedReason": ""
+      }
+    },
+    "16": {
+      "2": {
+        "name": "李菲杨",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "3": {
+        "name": "周涵意",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "4": {
+        "name": "古远腾",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "5": {
+        "name": "肖静怡",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "6": {
+        "name": "陈思皓",
+        "forced": false,
+        "forcedReason": ""
+      }
+    },
+    "17": {
+      "2": {
+        "name": "杨佳锐",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "3": {
+        "name": "张芷莹",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "4": {
+        "name": "陈俊峰",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "5": {
+        "name": "严汉云",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "6": {
+        "name": "范梓涵",
+        "forced": false,
+        "forcedReason": ""
+      }
+    },
+    "18": {
+      "2": {
+        "name": "周思彤",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "3": {
+        "name": "何彦",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "4": {
+        "name": "文婧茹",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "5": {
+        "name": "霍俊轩",
+        "forced": false,
+        "forcedReason": ""
+      },
+      "6": {
+        "name": "魏子欣",
+        "forced": false,
+        "forcedReason": ""
+      }
+    }
   },
   "lockState": {
     "1": true,
