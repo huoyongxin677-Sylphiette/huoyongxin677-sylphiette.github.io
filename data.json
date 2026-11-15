@@ -1,7 +1,7 @@
 {
   "v": 1,
   "app": "值班排班簿",
-  "updatedAt": "2026-11-15T07:52:02.487Z",
+  "updatedAt": "2026-11-15T07:52:07.493Z",
   "groupA": [
     "陈心园",
     "范梓涵",
@@ -349,9 +349,9 @@
         "forcedReason": ""
       },
       "5": {
-        "name": "黄诗琪",
+        "name": "周思彤",
         "forced": false,
-        "forcedReason": ""
+        "forcedReason": "（手动指定）"
       },
       "6": {
         "name": "周涵意",
