@@ -1,7 +1,7 @@
 {
   "v": 1,
   "app": "值班排班簿",
-  "updatedAt": "2026-11-15T07:52:37.826Z",
+  "updatedAt": "2026-11-15T07:53:00.081Z",
   "groupA": [
     "陈心园",
     "范梓涵",
@@ -339,9 +339,9 @@
         "forcedReason": "（手动指定）"
       },
       "3": {
-        "name": "古远腾",
+        "name": "陈思皓",
         "forced": false,
-        "forcedReason": ""
+        "forcedReason": "（手动指定）"
       },
       "4": {
         "name": "陈思皓",
